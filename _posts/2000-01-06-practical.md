@@ -14,7 +14,7 @@ fa-icon: check
 * ECTS credits: 6 ECTS
 * Semester: Autumn 2020
 * Dates: September 14 - December 14, 2020
-* Schedule: Lectures on Mondays 12pm-2pm, Labs on Mondays 10am-12pm or Tuesdays 12pm-2pm [[source]][room]
+* Schedule: Lectures on Mondays 12pm-2pm, Labs on Mondays 10am-12pm (G11) or Tuesdays 12pm-2pm (G13) [[source]][room]
 * [Room][room]: A4104+A4105 (Lectures) / A4105 (Labs)
 * Location: [Campus Nord UPC Barcelona](https://imatge.upc.edu/web/contact)
 * Course on [Atenea][atenea].
