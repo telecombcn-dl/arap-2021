@@ -14,11 +14,10 @@ fa-icon: check
 * ECTS credits: 6 ECTS
 * Semester: Autumn 2020
 * Dates: September 14 - December 14, 2020
-* Schedule: Lectures on Mondays 12pm-2pm, Labs on Mondays 10am-12pm or Tuesdays 12pm-2pm
+* Schedule: Lectures on Mondays 12pm-2pm, Labs on Mondays 10am-12pm or Tuesdays 12pm-2pm [[source]][room]
 * [Room][room]: A4104+A4105 (Lectures) / A4105 (Labs)
 * Location: [Campus Nord UPC Barcelona](https://imatge.upc.edu/web/contact)
-* Course on [Atenea][atenea]
-* Feedback & Questions: Please use the [Github Issues] section.(https://github.com/telecombcn-dl/drl-2020/issues).
+* Course on [Atenea][atenea].
 
 [idl]: https://telecombcn-dl.github.io/idl-2020/
 [aa2]: https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-data-science-and-engineering/curriculum/syllabus/AA2-GCED
@@ -27,4 +26,4 @@ fa-icon: check
 [atenea]: https://atenea.upc.edu/course/view.php?id=63606
 [upc]: http://www.upc.edu/?set_language=en
 
-[room]: https://telecos.upc.edu/ca/shared/curs-actual/optatives-graus-tardor/optatives-graus_tardor_19_v10.pdf
+[room]: https://intranet.etsetb.upc.edu/serveis/pdi/docencia/horaris/GRETST_OG_Q1_2021_47.html
